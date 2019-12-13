@@ -1,0 +1,70 @@
+header{
+	font-family:Edwardian Script ITC;
+	color:purple;
+	position:fixed;
+	top:0;
+	width:100%;
+}
+
+header h2{
+	margin-left:40px;
+	font-size:xx-large;
+}
+
+.about{
+	background-image:url("/310615.jpg");
+	background-repeat:   no-repeat;
+	background-size:100% 100%;
+	background-attachment: fixed;
+	height:450px;
+	margin-top:75px;	
+}
+
+.about h1{
+	color:purple;
+	font-family:Agency FB;
+	padding-top: 40px;
+	margin-left:40px;
+	margin-right:40px;
+	
+	
+}
+
+.forms{
+	margin-left:40px;
+	margin-right:40px;
+}
+
+.task{
+	margin:50px;
+}
+
+.delete{
+	float:right;
+}
+
+@media screen and (max-width: 480px) {
+ header h2{
+	margin-left:20px;
+	font-size:x-large;
+}
+
+.about{
+	background-image:url("/310615.jpg");
+	background-repeat:   no-repeat;
+	background-size:100% 100%;
+	background-attachment: fixed;
+	height:450px;
+	margin-top:70px;	
+}
+.about h1{
+	color:purple;
+	font-family:Agency FB;
+	padding-top: 20px;
+	margin-left:10px;
+	margin-right:10px;
+	font-size:xx-large;
+	
+}
+
+}
