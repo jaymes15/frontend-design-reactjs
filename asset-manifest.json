@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/frontend-design-reactjs/static/css/main.7eed866b.chunk.css",
+    "main.css": "/frontend-design-reactjs/static/css/main.13c983ba.chunk.css",
     "main.js": "/frontend-design-reactjs/static/js/main.b751b844.chunk.js",
     "main.js.map": "/frontend-design-reactjs/static/js/main.b751b844.chunk.js.map",
     "runtime-main.js": "/frontend-design-reactjs/static/js/runtime-main.aaba81ab.js",
@@ -8,15 +8,15 @@
     "static/js/2.55031c84.chunk.js": "/frontend-design-reactjs/static/js/2.55031c84.chunk.js",
     "static/js/2.55031c84.chunk.js.map": "/frontend-design-reactjs/static/js/2.55031c84.chunk.js.map",
     "index.html": "/frontend-design-reactjs/index.html",
-    "precache-manifest.373ea3efa411aabdaab27acc2467d2a0.js": "/frontend-design-reactjs/precache-manifest.373ea3efa411aabdaab27acc2467d2a0.js",
+    "precache-manifest.bc6bbb59f820219e2df10772d4c34690.js": "/frontend-design-reactjs/precache-manifest.bc6bbb59f820219e2df10772d4c34690.js",
     "service-worker.js": "/frontend-design-reactjs/service-worker.js",
-    "static/css/main.7eed866b.chunk.css.map": "/frontend-design-reactjs/static/css/main.7eed866b.chunk.css.map",
+    "static/css/main.13c983ba.chunk.css.map": "/frontend-design-reactjs/static/css/main.13c983ba.chunk.css.map",
     "static/js/2.55031c84.chunk.js.LICENSE": "/frontend-design-reactjs/static/js/2.55031c84.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.aaba81ab.js",
     "static/js/2.55031c84.chunk.js",
-    "static/css/main.7eed866b.chunk.css",
+    "static/css/main.13c983ba.chunk.css",
     "static/js/main.b751b844.chunk.js"
   ]
 }
