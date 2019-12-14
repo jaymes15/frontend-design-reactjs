@@ -4,6 +4,7 @@ header{
 	position:fixed;
 	top:0;
 	width:100%;
+	z-index: 3;
 }
 
 header h2{
@@ -43,6 +44,12 @@ header h2{
 	float:right;
 }
 
+#edittask{
+	position:relative;
+	left: 100px;
+	bottom:38px;
+	z-index: 1;
+}
 @media screen and (max-width: 480px) {
  header h2{
 	margin-left:20px;
